@@ -1,0 +1,17 @@
+path: /C/Users/kulde/Python project/data
+train: images/train
+val: images/train
+
+names:
+ 0: Suzuki Swift
+ 1: Suzuki Wagon R
+ 2: Hyundai Verna
+ 3: Hyundai Venue
+ 4: Honda Amaze
+ 5: Honda City
+ 6: Tata Safari
+ 7: Tata Nexon
+ 8: Mahindra Thar
+ 9: Mahindra Scorpio
+ 10: Volkswagen Polo
+ 11: Renault Kiger
